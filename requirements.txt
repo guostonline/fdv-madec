@@ -1,8 +1,8 @@
 streamlit
-streamlit_option_menu
+streamlit-option-menu
 plotly
 openpyxl
 pandas
 numpy
 pywhatkit
-dataframe_image
+dataframe-image
